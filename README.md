@@ -65,6 +65,10 @@ Open your browser or use curl:
     curl http://<YOUR_PUBLIC_IP>
 
 🎯 Outcome
+
 ✅ Two NGINX web servers behind an NGINX reverse proxy acting as a load balancer
+
 ✅ Load balanced traffic across both containers
+
 ✅ Simple yet powerful Docker networking
+
